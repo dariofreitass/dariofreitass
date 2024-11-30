@@ -17,5 +17,5 @@
 ### Redes sociais 👾
  
 <div> 
-  <a href="https://www.linkedin.com/in/d%C3%A1rio-ara%C3%BAjo-freitas-989574180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/d%C3%A1rio-ara%C3%BAjo-freitas-989574180/](https://www.linkedin.com/in/d%C3%A1rio-ara%C3%BAjo-989574180/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
